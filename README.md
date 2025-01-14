@@ -1,3 +1,3 @@
 # AD-2023
-task from university data analysis course  \n
+task from university data analysis course  
 для того, чтобы появилась визуализация, необходимо скачать файл и запустить его - гитхаб плохо отображает графики из некоторых библиотек
